@@ -1,0 +1,68 @@
+[INFO ] 2022-10-25 20:15:06.493 [main] Log - Reading Properties file
+[INFO ] 2022-10-25 20:15:06.496 [main] Log - Generating user info from rest endpoint
+[INFO ] 2022-10-25 20:15:09.437 [main] Log - Initializing WebDriver session for  chrome browser
+[INFO ] 2022-10-25 20:15:13.247 [main] Log - Maximizing browser window
+[INFO ] 2022-10-25 20:15:13.411 [main] Log - Launching the url  https://magento.softwaretestingboard.com
+[INFO ] 2022-10-25 20:15:15.307 [main] Log - Navigating to Registration page
+[INFO ] 2022-10-25 20:15:15.758 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> link text: Create an Account]
+[INFO ] 2022-10-25 20:15:15.834 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> link text: Create an Account] is clickable
+[INFO ] 2022-10-25 20:15:17.743 [main] Log - Registering user with user informationKrinyvs, Garza, krin.garza@example.com, _y5aI(WyUz;5vb<, _y5aI(WyUz;5vb<
+[INFO ] 2022-10-25 20:15:17.797 [main] Log - Sending value Krinyvs to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: firstname]
+[INFO ] 2022-10-25 20:15:17.866 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: firstname] is clickable
+[INFO ] 2022-10-25 20:15:18.153 [main] Log - Sending value Garza to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: lastname]
+[INFO ] 2022-10-25 20:15:18.165 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: lastname] is clickable
+[INFO ] 2022-10-25 20:15:18.305 [main] Log - Sending value krin.garza@example.com to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: email_address]
+[INFO ] 2022-10-25 20:15:18.321 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: email_address] is clickable
+[INFO ] 2022-10-25 20:15:18.580 [main] Log - Sending value _y5aI(WyUz;5vb< to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: password]
+[INFO ] 2022-10-25 20:15:18.594 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: password] is clickable
+[INFO ] 2022-10-25 20:15:18.786 [main] Log - Sending value _y5aI(WyUz;5vb< to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: password-confirmation]
+[INFO ] 2022-10-25 20:15:18.797 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: password-confirmation] is clickable
+[INFO ] 2022-10-25 20:15:18.964 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[@title='Create an Account']]
+[INFO ] 2022-10-25 20:15:19.009 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[@title='Create an Account']] is clickable
+[INFO ] 2022-10-25 20:15:23.214 [main] Log - Choosing montana jacket to buy
+[INFO ] 2022-10-25 20:15:23.281 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: ui-id-5]
+[INFO ] 2022-10-25 20:15:23.297 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: ui-id-5] is clickable
+[INFO ] 2022-10-25 20:15:24.501 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> link text: Jackets]
+[INFO ] 2022-10-25 20:15:24.573 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> link text: Jackets] is clickable
+[INFO ] 2022-10-25 20:15:26.964 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> link text: Montana Wind Jacket]
+[INFO ] 2022-10-25 20:15:27.003 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> link text: Montana Wind Jacket] is clickable
+[INFO ] 2022-10-25 20:15:28.489 [main] Log - Adding the product to cart
+[INFO ] 2022-10-25 20:15:28.620 [main] Log - Before clicking on element Proxy element for: DefaultElementLocator 'By.id: option-label-size-143-item-170'
+[INFO ] 2022-10-25 20:15:28.770 [main] Log - Validating that element Proxy element for: DefaultElementLocator 'By.id: option-label-size-143-item-170' is clickable
+[INFO ] 2022-10-25 20:15:29.635 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: option-label-color-93-item-49]
+[INFO ] 2022-10-25 20:15:29.652 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> id: option-label-color-93-item-49] is clickable
+[INFO ] 2022-10-25 20:15:30.065 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[@title='Add to Cart']]
+[INFO ] 2022-10-25 20:15:30.080 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[@title='Add to Cart']] is clickable
+[INFO ] 2022-10-25 20:15:30.228 [main] Log - Checking out the product
+[INFO ] 2022-10-25 20:15:30.248 [main] Log - Waiting for invisibility of element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //div[@class = 'loading-mask']]
+[INFO ] 2022-10-25 20:15:32.476 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //span[@class = 'counter-number']]
+[INFO ] 2022-10-25 20:15:32.485 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //span[@class = 'counter-number']] is clickable
+[INFO ] 2022-10-25 20:15:32.642 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[text()='Proceed to Checkout']]
+[INFO ] 2022-10-25 20:15:32.682 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[text()='Proceed to Checkout']] is clickable
+[INFO ] 2022-10-25 20:15:34.915 [main] Log - Enter Shipping details
+[INFO ] 2022-10-25 20:15:34.960 [main] Log - Select visible option United States from element Proxy element for: DefaultElementLocator 'By.name: country_id'
+[INFO ] 2022-10-25 20:15:35.100 [main] Log - Waiting till visibilily of element Proxy element for: DefaultElementLocator 'By.name: country_id'
+[INFO ] 2022-10-25 20:15:38.020 [main] Log - Waiting for invisibility of element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> class name: loading-mask]
+[INFO ] 2022-10-25 20:15:38.576 [main] Log - Select visible option New Mexico from element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: region_id]
+[INFO ] 2022-10-25 20:15:38.584 [main] Log - Waiting till visibilily of element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: region_id]
+[INFO ] 2022-10-25 20:15:38.742 [main] Log - Sending value Seagoville to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: city]
+[INFO ] 2022-10-25 20:15:38.753 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: city] is clickable
+[INFO ] 2022-10-25 20:15:38.929 [main] Log - Sending value Forest Ln to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: street[0]]
+[INFO ] 2022-10-25 20:15:38.939 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: street[0]] is clickable
+[INFO ] 2022-10-25 20:15:39.099 [main] Log - Sending value 75462 to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: postcode]
+[INFO ] 2022-10-25 20:15:39.109 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: postcode] is clickable
+[INFO ] 2022-10-25 20:15:39.259 [main] Log - Sending value (831) 703-7890 to element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: telephone]
+[INFO ] 2022-10-25 20:15:39.270 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> name: telephone] is clickable
+[INFO ] 2022-10-25 20:15:39.503 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //table[@class = 'table-checkout-shipping-method']/tbody/tr[1]/td[1]]
+[INFO ] 2022-10-25 20:15:39.514 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //table[@class = 'table-checkout-shipping-method']/tbody/tr[1]/td[1]] is clickable
+[INFO ] 2022-10-25 20:15:39.627 [main] Log - Scrolling till visibility of element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //div[@id = 'shipping-method-buttons-container']//button]
+[INFO ] 2022-10-25 20:15:39.655 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //div[@id = 'shipping-method-buttons-container']//button]
+[INFO ] 2022-10-25 20:15:39.665 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //div[@id = 'shipping-method-buttons-container']//button] is clickable
+[INFO ] 2022-10-25 20:15:39.772 [main] Log - Placing the order
+[INFO ] 2022-10-25 20:15:39.782 [main] Log - Waiting for invisibility of element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> class name: loading-mask]
+[INFO ] 2022-10-25 20:15:43.240 [main] Log - Before clicking on element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[@title = 'Place Order']]
+[INFO ] 2022-10-25 20:15:43.256 [main] Log - Validating that element [[ChromeDriver: chrome on WINDOWS (2fc5f775d99c8a70a5c54ca813b38138)] -> xpath: //button[@title = 'Place Order']] is clickable
+[INFO ] 2022-10-25 20:15:43.415 [main] Log - Before clicking on element Proxy element for: DefaultElementLocator 'By.xpath: //a[@class = 'order-number']'
+[INFO ] 2022-10-25 20:15:43.429 [main] Log - Validating that element Proxy element for: DefaultElementLocator 'By.xpath: //a[@class = 'order-number']' is clickable
+[INFO ] 2022-10-25 20:15:49.419 [main] Log - Asserting product information
+[INFO ] 2022-10-25 20:15:49.822 [main] Log - quitting Selenium WebDriver Session
