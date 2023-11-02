@@ -15,7 +15,7 @@ public class DriverManager {
         switch (browser) {
             case "chrome":
               //  WebDriverManager.chromedriver().setup();
-                System.setProperty("webdriver.chrome.driver","C:\\SeleniumWebDrivers\\ChromeDriver");
+              //  System.setProperty("webdriver.chrome.driver","C:\\SeleniumWebDrivers\\ChromeDriver");
                 ChromeOptions options = new ChromeOptions();
                 options.addArguments("start-maximized"); // open Browser in maximized mode
                 options.addArguments("disable-infobars"); // disabling infobars
